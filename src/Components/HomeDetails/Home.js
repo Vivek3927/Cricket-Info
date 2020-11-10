@@ -28,7 +28,6 @@ class Home extends Component {
   render() {
     return (
       <div className="container  bg-light">
-        <h3 className="text-center Text-Edit">Indian Premier League</h3>
         <div className="row">
           <div className="col-md-3"></div>
           <div className="col-md-6 ">

@@ -1,0 +1,14 @@
+.Nav {
+  background-color: rgba(211, 243, 240, 0.5);
+}
+.Nav:hover {
+  background-color: rgba(59, 141, 134, 0.2);
+}
+
+.TextEdit {
+  color: rgb(0, 0, 0, 0.8);
+}
+.TextEdit:hover {
+  color: rgb(0, 0, 0);
+  font-size: xx-large;
+}

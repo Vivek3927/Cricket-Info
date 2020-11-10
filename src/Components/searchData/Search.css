@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.Image {
+  padding: 10px;
+  width: 170px;
+  height: 170px;
+  border-radius: 17px;
+}
+.India {
+  color: gray;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+.NameInfo {
+  /* margin-left: 90px; */
+}
+.container {
+  min-width: 60%;
+}
+.TextBold {
+  font-weight: bold;
+  font-size: 14px;
+}
